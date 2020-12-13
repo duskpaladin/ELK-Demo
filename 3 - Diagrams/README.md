@@ -1,0 +1,2 @@
+# Diagrams #
+Diagrams are an important part of the cybersecurity professionals' toolkit. Not only are they valuable for helping visualize network configurations before they are built/deployed, but they are a great way of helping other understand how the network functions. Included are diagrams for a basic on-site premises network setup, a diagram for the first part of the project's cloud network setup and a diagram for the cloud network with an ELK stack server.
