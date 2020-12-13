@@ -116,7 +116,7 @@ In order to deploy an ELK Stack, we will first need to create a virtual network 
 
 Once the cloud network has been set up, it should look something like this:
 
-![](3-Diagrams/Example_Cloud_Network_and_ELK Stack.png)
+![](3-Diagrams/Example_Cloud_Network_and_ELK_Stack.png)
 
 # Repository Contents #
 This project repository contains three folders. The first folder contains a few Linux Bash scripts created during the Linux portion of the cirriculum, meant to showcase some of the foundational skills needed for the project. The second folder is dedicated to the various Ansible configuration files and playbooks used to create and configure the DVWA containers and ELK stack on the two virtual networks created as part of the project. The final folder is dedicated to diagrams of various network setups for use in the repository as well as to display understanding of a proper network setup.
